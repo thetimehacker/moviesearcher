@@ -1,8 +1,9 @@
 This is the second time I am filling the form because first time there were some errors -> please go though this file to completely understand this website 
 -	Shubham Kumar Rawat
 -	19BCS2062
-Working site link: https://wolkusmoviesearcher.000webhostapp.com/ 
-Github link: https://github.com/thetimehacker/moviesearcher 
+> Working site link: https://wolkusmoviesearcher.000webhostapp.com/
+> 
+> Github link: https://github.com/thetimehacker/moviesearcher 
 
 ## ---------PLEASE READ IT BEFORE GOING TO THE SITE --------
 
